@@ -10,17 +10,17 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# 你好
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## 你好
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### 你好
 
 ```js
 // Javascript code with syntax highlighting.
@@ -37,19 +37,19 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### 你好
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+##### 你好
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+###### 你好
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -58,25 +58,25 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+### 展示如下：
 
 * * *
 
-### Here is an unordered list:
+### 未定义标签
 
 *   Item foo
 *   Item bar
 *   Item baz
 *   Item zip
 
-### And an ordered list:
+### 定义标签
 
 1.  Item one
 1.  Item two
 1.  Item three
 1.  Item four
 
-### And a nested list:
+### 连接型标签
 
 - level 1 item
   - level 2 item
@@ -92,32 +92,34 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
+### 想法一
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+### 想法二
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+###用html实现个人信息的处理
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
+<dt>name</dt>
+<dd>Dz</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>2000</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>China</dd>
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+事实上还能够写这么多
 ```
 
 ```
 The final element.
+最后一行
 ```
